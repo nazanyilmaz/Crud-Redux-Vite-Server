@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "2e9d04cd-857e-4ab6-ab1e-ab41eb01088c",
+      "text": "make js",
+      "is_done": false,
+      "created_at": "2/14/2024"
+    },
+    {
+      "id": "e6819303-4708-48cc-b5c8-026f9dffb9ce",
+      "text": "typescript learn",
+      "is_done": true,
+      "created_at": "2/14/2023"
+    },
+    {
+      "id": "c4bf4d26-dbfb-4790-b15f-f76e99685b3b",
+      "text": "Learn to redux",
+      "is_done": false,
+      "create_at": "2/15/2024"
+    },
+    {
+      "id": "4c4acb03-b6d9-4be2-9abe-8fc6fee05c35",
+      "text": "js learn",
+      "is_done": false,
+      "create_at": "2/15/2024"
+    },
+    {
+      "id": "c1817bd4-6889-4cfe-8ff3-396b0e4abab7",
+      "text": "learn to redux",
+      "is_done": false,
+      "create_at": "2/15/2024"
+    }
+  ]
+}
