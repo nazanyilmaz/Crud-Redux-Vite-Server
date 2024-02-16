@@ -1,9 +1,9 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>Crud-Redux-Vite-Server</h1>
 
-Currently, two official plugins are available:
+<p>It is a crud project prepared using Redux features. You can add a new todo to the list, delete it or update it. All transactions are recorded in the API.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Crud-Redux-Vite-Server
+<h3>Project Gif</h3>
+
+
+![ScreenRecording2024-02-15at11 27 07PM-ezgif com-optimize](https://github.com/nazanyilmaz/Crud-Redux-Vite-Server/assets/147782488/54badd60-9edc-4f0b-8fe5-526710694cff)
